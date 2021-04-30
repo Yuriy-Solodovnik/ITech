@@ -1,0 +1,28 @@
+input
+{
+    font-size: 1.6em;
+}
+.selector
+{
+    margin-bottom: 125px;
+    font-style: italic;
+    font-weight: bolder;
+    font-size: 2em;
+    background-color: lawngreen;
+}
+option
+{
+    font-style: normal;
+    font-weight: lighter;
+}
+#confirm
+{
+    font-size: 2em;
+    background-color:#fff;
+    border-radius: 30px;
+}
+#myImage
+{
+    margin-top: 10px;
+    border: 0px solid black;
+}
