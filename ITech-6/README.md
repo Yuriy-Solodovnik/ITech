@@ -1,4 +1,4 @@
-Команды записи данных в колекции:
+Команды записи данных в колекции
 db.services.insert([{"dateStart":ISODate("2021-04-23T00:00:00Z"), "dateEnd":ISODate("2021-04-25T00:00:00Z"), "cost":230, "mark":"Audi"},
 {"dateStart":ISODate("2021-04-15T00:00:00Z"), "dateEnd":ISODate("2021-04-16T00:00:00Z"), "cost":120, "mark":"KIA Rio"},
 {"dateStart":ISODate("2021-03-23T00:00:00Z"), "dateEnd":ISODate("2021-03-27T00:00:00Z"), "cost":145, "mark":"VolksWagen Jetta TSI"},
